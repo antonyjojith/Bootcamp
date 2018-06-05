@@ -1,0 +1,17 @@
+/* font family */
+
+p{
+    font-family: Arial;
+}
+h1{
+    font-family: Georgia;
+}
+/* font size */
+h1{
+    font-size: 5.0emM;
+    text-align: right;
+}
+
+span{
+    font-size: 2.0em;
+}
